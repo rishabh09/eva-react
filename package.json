@@ -1,0 +1,19 @@
+{
+  "name": "eva-react",
+  "version": "0.0.1",
+  "description": "React Components for eva design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Mishra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh09/eva-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishabh09/eva-react/issues"
+  },
+  "homepage": "https://github.com/rishabh09/eva-react#readme"
+}
